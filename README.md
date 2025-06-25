@@ -13,19 +13,6 @@ This repository contains my implementation and notes from a Spring Boot REST API
 - Request Mapping and Annotations
 - Two Projects Covered: Basic and Intermediate
 
-## 📁 Project Structure
-src
-├── main
-│ ├── java
-│ │ └── com.example.restapi
-│ │ ├── controller
-│ │ ├── entity
-│ │ ├── repository
-│ │ └── service
-│ └── resources
-│ └── application.properties
-└── test
-
 ## 🧪 Technologies Used
 
 - Java
